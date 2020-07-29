@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/usvi/usvi/master/Janne-Paalijarvi-Github-Masthead.gif" alt="Janne Paalijarvi, Embedded SW developer, Maker, MSE & CEO">
 <!--
 **usvi/usvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
